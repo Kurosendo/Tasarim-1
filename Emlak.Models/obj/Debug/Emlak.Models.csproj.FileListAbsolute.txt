@@ -1,0 +1,17 @@
+D:\ProjelerOkul\Odev2\Emlak.Models\bin\Debug\Emlak.Models.dll
+D:\ProjelerOkul\Odev2\Emlak.Models\bin\Debug\Emlak.Models.pdb
+D:\ProjelerOkul\Odev2\Emlak.Models\obj\Debug\Emlak.Models.csproj.CoreCompileInputs.cache
+D:\ProjelerOkul\Odev2\Emlak.Models\obj\Debug\Emlak.Models.dll
+D:\ProjelerOkul\Odev2\Emlak.Models\obj\Debug\Emlak.Models.pdb
+C:\Users\Kerem\Desktop\Emlak_Otomasyonu-master\Emlak.Models\bin\Debug\Emlak.Models.dll
+C:\Users\Kerem\Desktop\Emlak_Otomasyonu-master\Emlak.Models\bin\Debug\Emlak.Models.pdb
+C:\Users\Kerem\Desktop\Emlak_Otomasyonu-master\Emlak.Models\obj\Debug\Emlak.Models.csproj.AssemblyReference.cache
+C:\Users\Kerem\Desktop\Emlak_Otomasyonu-master\Emlak.Models\obj\Debug\Emlak.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\Emlak_Otomasyonu-master\Emlak.Models\obj\Debug\Emlak.Models.dll
+C:\Users\Kerem\Desktop\Emlak_Otomasyonu-master\Emlak.Models\obj\Debug\Emlak.Models.pdb
+C:\Users\Acer\Desktop\Odev-main\Emlak.Models\bin\Debug\Emlak.Models.dll
+C:\Users\Acer\Desktop\Odev-main\Emlak.Models\bin\Debug\Emlak.Models.pdb
+C:\Users\Acer\Desktop\Odev-main\Emlak.Models\obj\Debug\Emlak.Models.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Odev-main\Emlak.Models\obj\Debug\Emlak.Models.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Odev-main\Emlak.Models\obj\Debug\Emlak.Models.dll
+C:\Users\Acer\Desktop\Odev-main\Emlak.Models\obj\Debug\Emlak.Models.pdb
