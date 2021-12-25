@@ -34,6 +34,10 @@ Verilerin Saklanmasi Konusunda Dosya Islemleri Kullanilmistir.
 Uygulama Icerisinde Saklanmasi Gereken Bilgiler txt Dosyalari Icerisinde Tutulmaktadir. </br> 
 Uygulama Icerisinde Herhangi Bir Veritabani Kullanilmamistir.
 
+## Not
+Programı açmak için Tasarim-1-main klasöründeki Emlak.WinFormApp’ i açınız. Eğer açılmıyorsa Tasarim-1-main\Emlak.WinFormApp\bin\Debug klasöründeki Emlak.WinFormApp’ i açınız.
+
+Giriş için kullanıcı adı kerem şifre 1234
 
 
-
+## Kerem Kocaekiz 1821012018
